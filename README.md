@@ -1,3 +1,5 @@
+https://castleluminous.github.io/ominous-positivity-generator/
+
 A simple microsite for displaying ominous positivity quotes.
 
 Why? Uhhhh, good question.
